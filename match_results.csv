@@ -1,0 +1,97 @@
+season,stage,group,home_team,away_team,home_goals,away_goals
+2023/24,Group stage,B,Lens,Sevilla,2,1
+2023/24,Group stage,B,PSV Eindhoven,Arsenal,1,1
+2023/24,Group stage,A,Manchester United,Bayern Munich,0,1
+2023/24,Group stage,A,Copenhagen,Galatasaray,1,0
+2023/24,Group stage,C,Napoli,Braga,2,0
+2023/24,Group stage,C,Union Berlin,Real Madrid,2,3
+2023/24,Group stage,D,Inter Milan,Real Sociedad,0,0
+2023/24,Group stage,D,Salzburg,Benfica,1,3
+2023/24,Group stage,G,RB Leipzig,Young Boys,2,1
+2023/24,Group stage,G,Red Star Belgrade,Manchester City,2,3
+2023/24,Group stage,E,Atletico Madrid,Lazio,2,0
+2023/24,Group stage,E,Celtic,Feyenoord,2,1
+2023/24,Group stage,F,Borussia Dortmund,Paris Saint-Germain,1,1
+2023/24,Group stage,F,Newcastle United,AC Milan,1,2
+2023/24,Group stage,H,Porto,Shakhtar Donetsk,5,3
+2023/24,Group stage,H,Antwerp,Barcelona,3,2
+2023/24,Group stage,E,Lazio,Celtic,2,0
+2023/24,Group stage,H,Shakhtar Donetsk,Antwerp,1,0
+2023/24,Group stage,E,Feyenoord,Atletico Madrid,1,3
+2023/24,Group stage,F,Paris Saint-Germain,Newcastle United,1,1
+2023/24,Group stage,F,AC Milan,Borussia Dortmund,1,3
+2023/24,Group stage,G,Manchester City,RB Leipzig,3,2
+2023/24,Group stage,G,Young Boys,Red Star Belgrade,2,0
+2023/24,Group stage,H,Barcelona,Porto,2,1
+2023/24,Group stage,A,Galatasaray,Manchester United,3,3
+2023/24,Group stage,B,Sevilla,PSV Eindhoven,2,3
+2023/24,Group stage,A,Bayern Munich,Copenhagen,0,0
+2023/24,Group stage,B,Arsenal,Lens,6,0
+2023/24,Group stage,C,Real Madrid,Napoli,4,2
+2023/24,Group stage,C,Braga,Union Berlin,1,1
+2023/24,Group stage,D,Benfica,Inter Milan,3,3
+2023/24,Group stage,D,Real Sociedad,Salzburg,0,0
+2023/24,Group stage,F,Borussia Dortmund,Newcastle United,2,0
+2023/24,Group stage,H,Shakhtar Donetsk,Barcelona,1,0
+2023/24,Group stage,E,Atletico Madrid,Celtic,6,0
+2023/24,Group stage,E,Lazio,Feyenoord,1,0
+2023/24,Group stage,F,AC Milan,Paris Saint-Germain,2,1
+2023/24,Group stage,G,Manchester City,Young Boys,3,0
+2023/24,Group stage,G,Red Star Belgrade,RB Leipzig,1,2
+2023/24,Group stage,H,Porto,Antwerp,2,0
+2023/24,Group stage,C,Napoli,Union Berlin,1,1
+2023/24,Group stage,D,Real Sociedad,Benfica,3,1
+2023/24,Group stage,A,Bayern Munich,Galatasaray,2,1
+2023/24,Group stage,A,Copenhagen,Manchester United,4,3
+2023/24,Group stage,B,Arsenal,Sevilla,2,0
+2023/24,Group stage,B,PSV Eindhoven,Lens,1,0
+2023/24,Group stage,C,Real Madrid,Braga,3,0
+2023/24,Group stage,D,Salzburg,Inter Milan,0,1
+2023/24,Group stage,A,Galatasaray,Bayern Munich,1,3
+2023/24,Group stage,D,Inter Milan,Salzburg,2,1
+2023/24,Group stage,A,Manchester United,Copenhagen,1,0
+2023/24,Group stage,B,Sevilla,Arsenal,1,2
+2023/24,Group stage,B,Lens,PSV Eindhoven,1,1
+2023/24,Group stage,C,Braga,Real Madrid,1,2
+2023/24,Group stage,C,Union Berlin,Napoli,0,1
+2023/24,Group stage,D,Benfica,Real Sociedad,0,1
+2023/24,Group stage,E,Feyenoord,Lazio,3,1
+2023/24,Group stage,H,Barcelona,Shakhtar Donetsk,2,1
+2023/24,Group stage,E,Celtic,Atletico Madrid,2,2
+2023/24,Group stage,F,Paris Saint-Germain,AC Milan,3,0
+2023/24,Group stage,F,Newcastle United,Borussia Dortmund,0,1
+2023/24,Group stage,G,RB Leipzig,Red Star Belgrade,3,1
+2023/24,Group stage,G,Young Boys,Manchester City,1,3
+2023/24,Group stage,H,Antwerp,Porto,1,4
+2023/24,Group stage,C,Union Berlin,Braga,2,3
+2023/24,Group stage,D,Salzburg,Real Sociedad,0,2
+2023/24,Group stage,A,Manchester United,Galatasaray,2,3
+2023/24,Group stage,A,Copenhagen,Bayern Munich,1,2
+2023/24,Group stage,B,Lens,Arsenal,2,1
+2023/24,Group stage,B,PSV Eindhoven,Sevilla,2,2
+2023/24,Group stage,C,Napoli,Real Madrid,2,3
+2023/24,Group stage,D,Inter Milan,Benfica,1,0
+2023/24,Group stage,E,Atletico Madrid,Feyenoord,3,2
+2023/24,Group stage,H,Antwerp,Shakhtar Donetsk,2,3
+2023/24,Group stage,E,Celtic,Lazio,1,2
+2023/24,Group stage,F,Borussia Dortmund,AC Milan,0,0
+2023/24,Group stage,F,Newcastle United,Paris Saint-Germain,4,1
+2023/24,Group stage,G,RB Leipzig,Manchester City,1,3
+2023/24,Group stage,G,Red Star Belgrade,Young Boys,2,2
+2023/24,Group stage,H,Porto,Barcelona,0,1
+2023/24,Group stage,F,AC Milan,Newcastle United,0,0
+2023/24,Group stage,G,Young Boys,RB Leipzig,1,3
+2023/24,Group stage,E,Feyenoord,Celtic,2,0
+2023/24,Group stage,E,Lazio,Atletico Madrid,1,1
+2023/24,Group stage,F,Paris Saint-Germain,Borussia Dortmund,2,0
+2023/24,Group stage,G,Manchester City,Red Star Belgrade,3,1
+2023/24,Group stage,H,Barcelona,Antwerp,5,0
+2023/24,Group stage,H,Shakhtar Donetsk,Porto,1,3
+2023/24,Group stage,A,Galatasaray,Copenhagen,2,2
+2023/24,Group stage,C,Real Madrid,Union Berlin,1,0
+2023/24,Group stage,A,Bayern Munich,Manchester United,4,3
+2023/24,Group stage,B,Sevilla,Lens,1,1
+2023/24,Group stage,B,Arsenal,PSV Eindhoven,4,0
+2023/24,Group stage,C,Braga,Napoli,1,2
+2023/24,Group stage,D,Benfica,Salzburg,0,2
+2023/24,Group stage,D,Real Sociedad,Inter Milan,1,1

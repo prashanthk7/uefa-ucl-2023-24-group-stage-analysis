@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="900" viewBox="0 0 1280 900" role="img" aria-labelledby="title desc">
+<title id="title">Scoring output and goals conceded</title><desc id="desc">Scatterplot with goals scored per match on the horizontal axis, goals conceded per match on the vertical axis, and team labels.</desc>
+<rect width="100%" height="100%" fill="#F4F7F9"/>
+<text x="48" y="47" fill="#10243A" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700">Scoring output and goals conceded</text>
+<text x="48" y="75" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="14">2023/24 UEFA Champions League group stage · each point represents a team · per-match rates</text>
+<a href="https://www.uefa.com/uefachampionsleague/news/0285-18e1b226cae3-4bbfb31dc1f7-1000--all-the-group-stage-fixtures-and-results/" aria-label="UEFA official 2023/24 group-stage results"><text x="1244" y="888" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="9" text-anchor="end">Source: UEFA 2023/24 group-stage fixtures and results (click to open)</text></a>
+<line x1="115.0" y1="135" x2="115.0" y2="785" stroke="#DCE5EC"/>
+<text x="115.0" y="807.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="400">0.0</text>
+<line x1="115" y1="785.0" x2="1145" y2="785.0" stroke="#DCE5EC"/>
+<text x="103.0" y="789.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400">0.0</text>
+<line x1="321.0" y1="135" x2="321.0" y2="785" stroke="#DCE5EC"/>
+<text x="321.0" y="807.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="400">0.7</text>
+<line x1="115" y1="655.0" x2="1145" y2="655.0" stroke="#DCE5EC"/>
+<text x="103.0" y="659.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400">0.6</text>
+<line x1="527.0" y1="135" x2="527.0" y2="785" stroke="#DCE5EC"/>
+<text x="527.0" y="807.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="400">1.3</text>
+<line x1="115" y1="525.0" x2="1145" y2="525.0" stroke="#DCE5EC"/>
+<text x="103.0" y="529.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400">1.2</text>
+<line x1="733.0" y1="135" x2="733.0" y2="785" stroke="#DCE5EC"/>
+<text x="733.0" y="807.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="400">2.0</text>
+<line x1="115" y1="395.0" x2="1145" y2="395.0" stroke="#DCE5EC"/>
+<text x="103.0" y="399.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400">1.9</text>
+<line x1="939.0" y1="135" x2="939.0" y2="785" stroke="#DCE5EC"/>
+<text x="939.0" y="807.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="400">2.6</text>
+<line x1="115" y1="265.0" x2="1145" y2="265.0" stroke="#DCE5EC"/>
+<text x="103.0" y="269.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400">2.5</text>
+<line x1="1145.0" y1="135" x2="1145.0" y2="785" stroke="#DCE5EC"/>
+<text x="1145.0" y="807.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="400">3.3</text>
+<line x1="115" y1="135.0" x2="1145" y2="135.0" stroke="#DCE5EC"/>
+<text x="103.0" y="139.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400">3.1</text>
+<line x1="596.2" y1="135" x2="596.2" y2="785" stroke="#137C9B" stroke-dasharray="7 6" stroke-width="2"/>
+<line x1="115" y1="463.4" x2="1145" y2="463.4" stroke="#D66B5D" stroke-dasharray="7 6" stroke-width="2"/>
+<text x="630.0" y="840.0" fill="#172B3A" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700">Goals for per match (higher = more goals scored)</text>
+<text x="35" y="460.0" transform="rotate(-90 35 460.0)" fill="#172B3A" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Goals against per match (lower = fewer goals conceded)</text>
+<circle cx="739.2" cy="576.4" r="6" fill="#14866D" stroke="#FFFFFF" stroke-width="1.5"><title>Bayern Munich: GF/MP 2.00; GA/MP 1.00; points/MP 2.67</title></circle>
+<text x="747.2" y="591.4" fill="#172B3A" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="700">Bayern Munich</text>
+<circle cx="531.1" cy="507.0" r="6" fill="#137C9B" stroke="#FFFFFF" stroke-width="1.5"><title>Copenhagen: GF/MP 1.33; GA/MP 1.33; points/MP 1.33</title></circle>
+<circle cx="635.3" cy="333.0" r="6" fill="#D39B37" stroke="#FFFFFF" stroke-width="1.5"><title>Galatasaray: GF/MP 1.67; GA/MP 2.17; points/MP 0.83</title></circle>
+<circle cx="739.2" cy="263.5" r="6" fill="#D66B5D" stroke="#FFFFFF" stroke-width="1.5"><title>Manchester United: GF/MP 2.00; GA/MP 2.50; points/MP 0.67</title></circle>
+<circle cx="947.4" cy="645.9" r="6" fill="#14866D" stroke="#FFFFFF" stroke-width="1.5"><title>Arsenal: GF/MP 2.67; GA/MP 0.67; points/MP 2.17</title></circle>
+<text x="955.4" y="660.9" fill="#172B3A" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="700">Arsenal</text>
+<circle cx="531.1" cy="437.3" r="6" fill="#137C9B" stroke="#FFFFFF" stroke-width="1.5"><title>PSV Eindhoven: GF/MP 1.33; GA/MP 1.67; points/MP 1.50</title></circle>
+<circle cx="427.1" cy="402.7" r="6" fill="#137C9B" stroke="#FFFFFF" stroke-width="1.5"><title>Lens: GF/MP 1.00; GA/MP 1.83; points/MP 1.33</title></circle>
+<circle cx="479.2" cy="367.8" r="6" fill="#D66B5D" stroke="#FFFFFF" stroke-width="1.5"><title>Sevilla: GF/MP 1.17; GA/MP 2.00; points/MP 0.33</title></circle>
+<circle cx="947.4" cy="541.6" r="6" fill="#14866D" stroke="#FFFFFF" stroke-width="1.5"><title>Real Madrid: GF/MP 2.67; GA/MP 1.17; points/MP 3.00</title></circle>
+<text x="955.4" y="556.6" fill="#172B3A" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="700">Real Madrid</text>
+<circle cx="635.3" cy="472.1" r="6" fill="#137C9B" stroke="#FFFFFF" stroke-width="1.5"><title>Napoli: GF/MP 1.67; GA/MP 1.50; points/MP 1.67</title></circle>
+<circle cx="427.1" cy="367.8" r="6" fill="#D66B5D" stroke="#FFFFFF" stroke-width="1.5"><title>Braga: GF/MP 1.00; GA/MP 2.00; points/MP 0.67</title></circle>
+<circle cx="427.1" cy="437.3" r="6" fill="#D66B5D" stroke="#FFFFFF" stroke-width="1.5"><title>Union Berlin: GF/MP 1.00; GA/MP 1.67; points/MP 0.33</title></circle>
+<circle cx="479.2" cy="715.5" r="6" fill="#14866D" stroke="#FFFFFF" stroke-width="1.5"><title>Real Sociedad: GF/MP 1.17; GA/MP 0.33; points/MP 2.00</title></circle>
+<text x="487.2" y="730.5" fill="#172B3A" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="700">Real Sociedad</text>
+<circle cx="531.1" cy="611.3" r="6" fill="#14866D" stroke="#FFFFFF" stroke-width="1.5"><title>Inter Milan: GF/MP 1.33; GA/MP 0.83; points/MP 2.00</title></circle>
+<circle cx="479.2" cy="402.7" r="6" fill="#D66B5D" stroke="#FFFFFF" stroke-width="1.5"><title>Benfica: GF/MP 1.17; GA/MP 1.83; points/MP 0.67</title></circle>
+<circle cx="323.2" cy="507.0" r="6" fill="#D66B5D" stroke="#FFFFFF" stroke-width="1.5"><title>Salzburg: GF/MP 0.67; GA/MP 1.33; points/MP 0.67</title></circle>
+<circle cx="999.2" cy="576.4" r="6" fill="#14866D" stroke="#FFFFFF" stroke-width="1.5"><title>Atletico Madrid: GF/MP 2.83; GA/MP 1.00; points/MP 2.33</title></circle>
+<text x="1007.2" y="591.4" fill="#172B3A" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="700">Atletico Madrid</text>
+<circle cx="479.2" cy="541.6" r="6" fill="#137C9B" stroke="#FFFFFF" stroke-width="1.5"><title>Lazio: GF/MP 1.17; GA/MP 1.17; points/MP 1.67</title></circle>
+<circle cx="583.2" cy="437.3" r="6" fill="#D39B37" stroke="#FFFFFF" stroke-width="1.5"><title>Feyenoord: GF/MP 1.50; GA/MP 1.67; points/MP 1.00</title></circle>
+<circle cx="375.0" cy="263.5" r="6" fill="#D66B5D" stroke="#FFFFFF" stroke-width="1.5"><title>Celtic: GF/MP 0.83; GA/MP 2.50; points/MP 0.67</title></circle>
+<text x="383.0" y="254.5" fill="#172B3A" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="700">Celtic</text>
+<circle cx="479.2" cy="645.9" r="6" fill="#137C9B" stroke="#FFFFFF" stroke-width="1.5"><title>Borussia Dortmund: GF/MP 1.17; GA/MP 0.67; points/MP 1.83</title></circle>
+<circle cx="583.2" cy="507.0" r="6" fill="#137C9B" stroke="#FFFFFF" stroke-width="1.5"><title>Paris Saint-Germain: GF/MP 1.50; GA/MP 1.33; points/MP 1.33</title></circle>
+<circle cx="375.0" cy="507.0" r="6" fill="#137C9B" stroke="#FFFFFF" stroke-width="1.5"><title>AC Milan: GF/MP 0.83; GA/MP 1.33; points/MP 1.33</title></circle>
+<circle cx="427.1" cy="541.6" r="6" fill="#D39B37" stroke="#FFFFFF" stroke-width="1.5"><title>Newcastle United: GF/MP 1.00; GA/MP 1.17; points/MP 0.83</title></circle>
+<circle cx="1051.4" cy="541.6" r="6" fill="#14866D" stroke="#FFFFFF" stroke-width="1.5"><title>Manchester City: GF/MP 3.00; GA/MP 1.17; points/MP 3.00</title></circle>
+<text x="1059.4" y="556.6" fill="#172B3A" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="700">Manchester City</text>
+<circle cx="791.4" cy="437.3" r="6" fill="#14866D" stroke="#FFFFFF" stroke-width="1.5"><title>RB Leipzig: GF/MP 2.17; GA/MP 1.67; points/MP 2.00</title></circle>
+<circle cx="479.2" cy="333.0" r="6" fill="#D66B5D" stroke="#FFFFFF" stroke-width="1.5"><title>Young Boys: GF/MP 1.17; GA/MP 2.17; points/MP 0.67</title></circle>
+<circle cx="479.2" cy="263.5" r="6" fill="#D66B5D" stroke="#FFFFFF" stroke-width="1.5"><title>Red Star Belgrade: GF/MP 1.17; GA/MP 2.50; points/MP 0.17</title></circle>
+<circle cx="739.2" cy="576.4" r="6" fill="#14866D" stroke="#FFFFFF" stroke-width="1.5"><title>Barcelona: GF/MP 2.00; GA/MP 1.00; points/MP 2.00</title></circle>
+<circle cx="895.3" cy="507.0" r="6" fill="#14866D" stroke="#FFFFFF" stroke-width="1.5"><title>Porto: GF/MP 2.50; GA/MP 1.33; points/MP 2.00</title></circle>
+<circle cx="635.3" cy="367.8" r="6" fill="#137C9B" stroke="#FFFFFF" stroke-width="1.5"><title>Shakhtar Donetsk: GF/MP 1.67; GA/MP 2.00; points/MP 1.50</title></circle>
+<circle cx="427.1" cy="194.1" r="6" fill="#D66B5D" stroke="#FFFFFF" stroke-width="1.5"><title>Antwerp: GF/MP 1.00; GA/MP 2.83; points/MP 0.50</title></circle>
+<text x="435.1" y="185.1" fill="#172B3A" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="700">Antwerp</text>
+<text x="185.0" y="112.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="start" font-weight="400">Dashed reference lines = dataset means: 1.54 goals scored and 1.54 conceded per team-match</text>
+<circle cx="200" cy="835" r="6" fill="#14866D"/>
+<text x="212.0" y="839.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400">≥ 2.00 pts/match</text>
+<circle cx="420" cy="835" r="6" fill="#137C9B"/>
+<text x="432.0" y="839.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400">1.25–1.99</text>
+<circle cx="640" cy="835" r="6" fill="#D39B37"/>
+<text x="652.0" y="839.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400">0.75–1.24</text>
+<circle cx="860" cy="835" r="6" fill="#D66B5D"/>
+<text x="872.0" y="839.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400">&lt; 0.75</text>
+<text x="115.0" y="872.0" fill="#5F7080" font-family="Arial, Helvetica, sans-serif" font-size="11" text-anchor="start" font-weight="400">Descriptive comparison only: opponent strength and match context are not adjusted; these data do not identify tactical causes.</text>
+</svg>
